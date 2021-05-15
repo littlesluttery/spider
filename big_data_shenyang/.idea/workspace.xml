@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab78a27-3d3a-48de-8552-41c431037ab1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/big_data_shenyang$cookies.coverage" NAME="cookies Coverage Results" MODIFIED="1603170148327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$dalian_policy_spider.coverage" NAME="dalian_policy_spider Coverage Results" MODIFIED="1602313375822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1603807751506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/technological_achievements" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$tieling_policy_spider.coverage" NAME="tieling_policy_spider Coverage Results" MODIFIED="1602316393500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$technological_achievements_spider.coverage" NAME="technological_achievements_spider Coverage Results" MODIFIED="1603858812403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/technological_achievements" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$test.coverage" NAME="test Coverage Results" MODIFIED="1603275385857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$shenyang_expert_spider.coverage" NAME="shenyang_expert_spider Coverage Results" MODIFIED="1602224449138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expert" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$dandong_policy_spider.coverage" NAME="dandong_policy_spider Coverage Results" MODIFIED="1602313560427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$shenyang_policy_spider.coverage" NAME="shenyang_policy_spider Coverage Results" MODIFIED="1602316382063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$intellectual_cookies.coverage" NAME="intellectual_cookies Coverage Results" MODIFIED="1603331773467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$shenyang_largeEquipment.coverage" NAME="shenyang_largeEquipment Coverage Results" MODIFIED="1602213203248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/largeEquipment" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$panjin_policy_spider.coverage" NAME="panjin_policy_spider Coverage Results" MODIFIED="1602316370181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$huludao_policy_spider.coverage" NAME="huludao_policy_spider Coverage Results" MODIFIED="1602311970844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$fuxin_policy_spider.coverage" NAME="fuxin_policy_spider Coverage Results" MODIFIED="1602313581323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$intellectual_test.coverage" NAME="intellectual_test Coverage Results" MODIFIED="1604545977393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$liaoning_largeEquipment.coverage" NAME="liaoning_largeEquipment Coverage Results" MODIFIED="1601879619312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/largeEquipment" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$intellectual_property_spider.coverage" NAME="intellectual_property_spider Coverage Results" MODIFIED="1602045656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$intellectual_cookies__1_.coverage" NAME="intellectual_cookies (1) Coverage Results" MODIFIED="1603270572104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$capycha_number.coverage" NAME="capycha_number Coverage Results" MODIFIED="1601629589517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$liaoyang_policy_spider.coverage" NAME="liaoyang_policy_spider Coverage Results" MODIFIED="1602316351860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$save_company_mysql.coverage" NAME="save_company_mysql Coverage Results" MODIFIED="1603953609326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$anshan_policy_spider.coverage" NAME="anshan_policy_spider Coverage Results" MODIFIED="1602313345864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$jinzhou_policy_spider.coverage" NAME="jinzhou_policy_spider Coverage Results" MODIFIED="1602316334988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$dongbei_expert_spider.coverage" NAME="dongbei_expert_spider Coverage Results" MODIFIED="1601864902738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/expert" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$zhaoyang_policy_spider.coverage" NAME="zhaoyang_policy_spider Coverage Results" MODIFIED="1602320416335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$liaoning_policy_spider.coverage" NAME="liaoning_policy_spider Coverage Results" MODIFIED="1602297774117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$config.coverage" NAME="config Coverage Results" MODIFIED="1602132514948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intellectual_property" />
+    <SUITE FILE_PATH="coverage/big_data_shenyang$yingkou_policy_spider.coverage" NAME="yingkou_policy_spider Coverage Results" MODIFIED="1603079682466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/policy" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="806874755">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="39" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="8" />
+          <entry key="project.open.time.3" value="21" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="12" />
+          <entry key="Image" value="86" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="192" />
+          <entry key="SQL" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="76" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Python" value="36867" />
+          <entry key="SQL" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="big_data_shenyang" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tesseract_cmd</find>
+      <find>下一页</find>
+      <find>patent_application_no</find>
+      <find>real_name</find>
+      <find>affiliation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>inventor</replace>
+      <replace>workCompany</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/expert.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/__init__.py" />
+        <option value="$PROJECT_DIR$/pytorch-captcha-recognition-master/captcha_predict.py" />
+        <option value="$PROJECT_DIR$/pytorch-captcha-recognition-master/my_dataset.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/capycha_number.py" />
+        <option value="$PROJECT_DIR$/largeEquipment/config.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/intellectual_property_spider.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/data.json" />
+        <option value="$PROJECT_DIR$/expert/config.py" />
+        <option value="$PROJECT_DIR$/policy/config.py" />
+        <option value="$PROJECT_DIR$/policy/dalian_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/shenyang_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/jinzhou_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/panjin_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/liaoning_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/fuxin_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/zhaoyang_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/tieling_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/huludao_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/anshan_policy_spider.py" />
+        <option value="$PROJECT_DIR$/policy/dandong_policy_spider.py" />
+        <option value="$PROJECT_DIR$/expert/dongbei_expert_spider.py" />
+        <option value="$PROJECT_DIR$/expert/shenyang_expert_spider.py" />
+        <option value="$PROJECT_DIR$/largeEquipment/liaoning_largeEquipment.py" />
+        <option value="$PROJECT_DIR$/largeEquipment/shenyang_largeEquipment.py" />
+        <option value="$PROJECT_DIR$/policy/yingkou_policy_spider.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/cookies.py" />
+        <option value="$PROJECT_DIR$/intellectual_cookies.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/clean_image.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/intellectual_cookies.py" />
+        <option value="$PROJECT_DIR$/technological_achievements/technological_achievements_spider.py" />
+        <option value="$PROJECT_DIR$/technological_achievements/test.py" />
+        <option value="$PROJECT_DIR$/technological_achievements/config.py" />
+        <option value="$PROJECT_DIR$/save_company_mysql.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/sample_table.py" />
+        <option value="$PROJECT_DIR$/zoom.html" />
+        <option value="$PROJECT_DIR$/sample_table.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/config.py" />
+        <option value="$PROJECT_DIR$/intellectual_property/intellectual_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="953" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Python</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="big_data_shenyang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/intellectual_property" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.intellectual_test">
+    <configuration name="intellectual_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="big_data_shenyang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intellectual_property" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intellectual_property/intellectual_cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="intellectual_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="big_data_shenyang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intellectual_property" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intellectual_property/intellectual_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="save_company_mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="big_data_shenyang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/save_company_mysql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="technological_achievements_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="big_data_shenyang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/technological_achievements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/technological_achievements/technological_achievements_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="big_data_shenyang" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/technological_achievements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/technological_achievements/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.intellectual_cookies" />
+      <item itemvalue="Python.intellectual_test" />
+      <item itemvalue="Python.technological_achievements_spider" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.save_company_mysql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.intellectual_test" />
+        <item itemvalue="Python.save_company_mysql" />
+        <item itemvalue="Python.technological_achievements_spider" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.intellectual_cookies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab78a27-3d3a-48de-8552-41c431037ab1" name="Default Changelist" comment="" />
+      <created>1601262530710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601262530710</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="953" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="748" y="69" width="183" height="861" id="Project" order="0" sideWeight="0.49825785" visible="true" weight="0.115384616" />
+      <window_info id="Structure" order="1" sideWeight="0.5017422" side_tool="true" weight="0.115384616" />
+      <window_info id="Favorites" order="2" sideWeight="0.5017422" side_tool="true" visible="true" weight="0.115384616" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.36585367" />
+      <window_info anchor="bottom" x="21" y="376" width="1638" height="246" id="Debug" order="3" sideWeight="0.4993895" weight="0.2857143" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" weight="0.4367015" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2891986" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4076655" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda/lib/python3.6/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/dalian_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="82" column="26" lean-forward="true" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/dandong_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/huludao_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/fuxin_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="132" column="23" lean-forward="true" selection-start-line="132" selection-start-column="23" selection-end-line="132" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/jinzhou_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="86" column="22" lean-forward="true" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/liaoyang_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="141" column="11" lean-forward="true" selection-start-line="141" selection-start-column="11" selection-end-line="141" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/panjin_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/shenyang_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/tieling_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/zhaoyang_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largeEquipment/shenyang_largeEquipment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4108">
+          <caret line="195" column="46" selection-start-line="195" selection-start-column="46" selection-end-line="195" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expert/dongbei_expert_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2225">
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expert/shenyang_expert_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="127" column="35" selection-start-line="127" selection-start-column="35" selection-end-line="127" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largeEquipment/liaoning_largeEquipment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="273" column="25" selection-start-line="273" selection-start-column="25" selection-end-line="273" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_data_shenyang.sql" />
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/policy/anshan_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy/yingkou_policy_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="83" column="24" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/1.png" />
+    <entry file="file://$PROJECT_DIR$/big_data_venv/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="1093" column="23" selection-start-line="1093" selection-start-column="17" selection-end-line="1093" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.png" />
+    <entry file="file://$PROJECT_DIR$/full_snap.png" />
+    <entry file="file://$PROJECT_DIR$/big_data_venv/lib/python3.6/site-packages/PIL/ImageFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="513" selection-start-line="513" selection-end-line="513" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_data_venv/lib/python3.6/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="639" selection-start-line="639" selection-end-line="639" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printscreen.png" />
+    <entry file="file://$PROJECT_DIR$/save.jpg" />
+    <entry file="file://$PROJECT_DIR$/code.png" />
+    <entry file="file://$PROJECT_DIR$/real_code.png" />
+    <entry file="file://$PROJECT_DIR$/intellectual_property/clean_image.py" />
+    <entry file="file://$PROJECT_DIR$/new_code.png" />
+    <entry file="file://$PROJECT_DIR$/intellectual_property/code.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/real_code.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technological_achievements/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1724">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technological_achievements/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technological_achievements/technological_achievements_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="221" column="36" lean-forward="true" selection-start-line="221" selection-start-column="36" selection-end-line="221" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/save_compamy_mysql.py" />
+    <entry file="file://$PROJECT_DIR$/save_company_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_table.py" />
+    <entry file="file://$PROJECT_DIR$/sample_table.html" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/zoom.html" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/intellectual_cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/intellectual_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intellectual_property/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
